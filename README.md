@@ -1,10 +1,7 @@
 ### Olá! Eu sou Victor Costa
-<div style="display: inline_block"><br>
-  <img align="center" alt="minha-foto" height="150" width="150" src="C:\Users\Victor\Downloads\20">
-</div>
 
 - 🔭 Atualmente em busca de oportunidades na área de Frontend.
-- 🌱 Estudando Full Stack, com foco em Frontend.
+- 🌱 Estudando Full Stack.
 - 😄 Pronomes: ele/dele
 
 
