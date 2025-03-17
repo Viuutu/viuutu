@@ -1,8 +1,8 @@
 ### Olá! Eu sou Victor Costa
 
-- 🔭 Atualmente em busca de oportunidades na área de Frontend.
-- 🌱 Estudando Full Stack.
-- 😄 Pronomes: ele/dele
+- 🔭 Migrando de carreira.
+- 🌱 Estudando Frontend e Backend -Java/ Javascript.
+  
 
 
 
