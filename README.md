@@ -1,7 +1,7 @@
 ### Olá! Eu sou Victor Costa
 
 - 🔭 Migrando de carreira.
-- 🌱 Estudando Frontend e Backend -Java/ Javascript.
+- 🌱 Estudando Frontend e Backend 
   
 
 
