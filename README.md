@@ -1,5 +1,5 @@
 
-##<h1>Sou Victor Costa Milhomem,</h1>
+<h1>💻Sou Victor Costa Milhomem,</h1>
 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação.<br>🚀 Atualmente focado em desenvolvimento Fullstack, com conhecimentos em HTML, CSS, JavaScript e Python.<br>🌱 Estou sempre aprendendo e aprimorando habilidades, estudando também Git/GitHub, Java e Spring Boot.<br>🎯 Busco criar soluções modernas, responsivas e interativas, com projetos que combinam design e funcionalidade.<br>📚 Além da programação, tenho experiência em Design de Interiores.<br>💡 Acredito no poder da tecnologia para transformar ideias em realidade e incentivo o aprendizado constante.<br>📌 Localização: João Pessoa, PB - Brasil.<br>🔗 Vamos conectar? https://www.linkedin.com/in/viuutu/<br><br>
 
 
@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia 
 ![](https://nirzak-streak-stats.vercel.app/?user=Viuutu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viuutu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
