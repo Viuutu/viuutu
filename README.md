@@ -1,6 +1,6 @@
 
-# <h1>Olá, Sou Victor Costa Milhomem,</h1>
-## 💻Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação.<br>🚀 Atualmente focado em desenvolvimento Fullstack, com conhecimentos em HTML, CSS, JavaScript e Python.<br><br>
+# <h1>Olá, Sou Victor Costa Milhomem,</h1><br>
+ 💻Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação.<br>🚀 Atualmente focado em desenvolvimento Fullstack, com conhecimentos em HTML, CSS, JavaScript e Python.<br><br>
 🌱 Estou sempre aprendendo e aprimorando habilidades, estudando também Git/GitHub, Java e Spring Boot.<br><br>
 🎯 Busco criar soluções modernas, responsivas e interativas, com projetos que combinam design e funcionalidade.<br><br>
 📚 Além da programação, tenho experiência em Design de Interiores.<br><br>
